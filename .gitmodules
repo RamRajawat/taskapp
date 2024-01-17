@@ -1,0 +1,6 @@
+[submodule "task-app-backend"]
+	path = task-app-backend
+	url = https://github.com/example/task-app-backend.git
+[submodule "task-app-frontend"]
+	path = task-app-frontend
+	url = https://github.com/example/task-app-frontend.git
